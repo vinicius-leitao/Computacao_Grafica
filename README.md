@@ -4,9 +4,9 @@ Repositório destinado aos códigos referentes à disciplina de Computação Gr�
 # Questão 3: Batata Pringles com iluminação
 ## Requisitos para rodar o código
 
-Para executar o código, é necessário que as bibliotecas PyOpenGL e SDL2 estejam devidamente instaladas em sua máquina.
+Para executar o código, é necessário que as bibliotecas *PyOpenGL* e *SDL2* estejam devidamente instaladas em sua máquina.
 
-*Para isso, basta rodar os comandos abaixo no seu terminal (Windows)*
+**Para isso, basta rodar os comandos abaixo no seu terminal (Windows)**
 
 ```
 pip install -U pysdl2
