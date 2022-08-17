@@ -6,7 +6,7 @@ Repositório destinado aos códigos referentes à disciplina de Computação Gr�
 
 Para executar o código, é necessário que as bibliotecas PyOpenGL e SDL2 estejam devidamente instaladas em sua máquina.
 
-*Para isso, basta rodar os comandos abaixo no seu terminal (Windows)"
+*Para isso, basta rodar os comandos abaixo no seu terminal (Windows)*
 
 ```
 pip install -U pysdl2
